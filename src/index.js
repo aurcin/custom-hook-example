@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-import PictureList from 'components/picture/PictureDataContainer';
+import PictureList from 'components/picture/PictureList';
 
 const App = () => {
   return (
